@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 19 Feb 2024 16:29:08 at https://site-production-3217.up.railway.app/cadastro/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://site-production-3217.up.railway.app/cadastro/ -O1 "C:\Users\rafae\OneDrive\Área de Trabalho\Cadastro\Cadastro" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:29:38	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://site-production-3217.up.railway.app/cadastro/script.js.download
+16:29:41	Error: 	"Not Found" (404) at link https://site-production-3217.up.railway.app/_nuxt/img/bg.d97ec32.jpg (from https://site-production-3217.up.railway.app/cadastro/)
+16:29:41	Error: 	"Not Found" (404) at link https://site-production-3217.up.railway.app/_nuxt/img/bg.9c173a4.jpg (from https://site-production-3217.up.railway.app/cadastro/)
+16:29:41	Error: 	"Not Found" (404) at link https://site-production-3217.up.railway.app/_nuxt/img/bg-default-profile.3d5834d.jpg (from https://site-production-3217.up.railway.app/cadastro/)
+16:29:41	Error: 	"Not Found" (404) at link https://site-production-3217.up.railway.app/_nuxt/img/bg-default-large.83615e4.jpg (from https://site-production-3217.up.railway.app/cadastro/)
+16:29:41	Error: 	"Not Found" (404) at link https://site-production-3217.up.railway.app/_nuxt/img/bg-default-stories.1fcf6ab.jpg (from https://site-production-3217.up.railway.app/cadastro/)
+16:29:41	Error: 	"Not Found" (404) at link https://site-production-3217.up.railway.app/cadastro/chrome-extension://hjbfbllnfhppnhjdhhbmjabikmkfekgf/windowscript.js (from https://site-production-3217.up.railway.app/cadastro/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 seconds : 48 links scanned, 41 files written (5056398 bytes overall) [5067150 bytes received at 153550 bytes/sec]
+(6 errors, 1 warnings, 0 messages)
